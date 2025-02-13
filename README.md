@@ -1,2 +1,2 @@
-# cookie-simulator
-A clicking game that is amazing
+# lemonade-stand-sim
+An idle game with twist
